@@ -3,7 +3,7 @@ Converts a user-provided String to i32 (exluding space) and prints the result
 
 # Building from source
 ### Dependencies
-  - (Rust)[https://www.rust-lang.org/tools/install]
+  - (Rust)[www.rust-lang.org/tools/install]
 ### Building
   1. Clone the repository
     `git clone https://github.com/lostshelf/String_to_i32.git`
