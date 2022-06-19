@@ -1,7 +1,7 @@
 # String to i32
 Converts a user-provided String to i32 (exluding space) and prints the result
 
-# Building from source
+## Building from source
 ### Dependencies
   - (Rust)[www.rust-lang.org/tools/install]
 ### Building
